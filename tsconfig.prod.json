@@ -6,8 +6,6 @@
       "esnext",
       "dom"
     ],
-    "sourceMap": true,
-    "declaration": true,                      /* Generates corresponding '.d.ts' file. */
     "outDir": "./dist",                       /* Redirect output structure to the directory. */
     "strict": true,                           /* Enable all strict type-checking options. */
     "moduleResolution": "node",               /* Specify module resolution strategy: 'node' (Node.js) or 'classic' (TypeScript pre-1.6). */
